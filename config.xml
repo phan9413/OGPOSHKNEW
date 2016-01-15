@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.yourCompany.yourApp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="OGPOSHK" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>OG POS HK</name>
     <description>
         Developed Under Window 10
     </description>
     <author email="" href="">
-        PhoneGap Team
+        Phan Sin Tian
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
     <preference name="permissions" value="" />
